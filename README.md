@@ -1,2 +1,2 @@
 # Partial-Differential-Equations-Analytical-and-Numerical-Methods-
-Here, I will solve solutions involving ordinary differential equations, Boundary value problems in Statics, Heat flow and Diffusion, and Waves using python and show visualizations.
+Here, I will solve solutions involving ordinary differential equations, Boundary value problems in Statics, Heat flow and Diffusion, and Waves using python and show visualizations. Questions that I will solve are found in the texbook "Partial Differential Equations, " Analytical and Numerical Methods"". It is a second edition book written by Mark S. Gockenbach. This is a course where we focus on PDE's. 
